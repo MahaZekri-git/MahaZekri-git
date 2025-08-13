@@ -1,6 +1,6 @@
-![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20250620/pngtree-programmer-typing-code-on-laptop-computer-image_17433860.jpg)
+<img src="https://png.pngtree.com/thumb_back/fw800/background/20250620/pngtree-programmer-typing-code-on-laptop-computer-image_17433860.jpg" width="100%" alt="Banner">
 <h1 align="center">Hi 👋, I'm Maha Zekri</h1>
-<h3 align="center">A Network and System Engineer/Passionate about Devops from Tunisia</h3>
+<h3 align="center">A Network and System Engineer/Passionate about Devops, from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahazekri-git&label=Profile%20views&color=0e75b6&style=flat" alt="mahazekri-git" /> </p>
