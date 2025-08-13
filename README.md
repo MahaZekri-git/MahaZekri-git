@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20250620/pngtree-programmer-typing-code-on-laptop-computer-image_17433860.jpg)]
+![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20250620/pngtree-programmer-typing-code-on-laptop-computer-image_17433860.jpg)
 <h1 align="center">Hi 👋, I'm Maha Zekri</h1>
 <h3 align="center">A Network and System Engineer/Passionate about Devops from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
